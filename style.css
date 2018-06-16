@@ -1,0 +1,8 @@
+body {
+	background-color: #D99191;
+}
+.wrapper {
+	display: block;
+	width: 80%;
+	margin: 30px 20px 50px 60px;
+}
